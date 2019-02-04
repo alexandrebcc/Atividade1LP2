@@ -1,0 +1,11 @@
+C:\Users\alexa\OneDrive\Área de Trabalho\LP\Atividade1POO\Atividade1\bin\Debug\netcoreapp2.1\Atividade1.deps.json
+C:\Users\alexa\OneDrive\Área de Trabalho\LP\Atividade1POO\Atividade1\bin\Debug\netcoreapp2.1\Atividade1.runtimeconfig.json
+C:\Users\alexa\OneDrive\Área de Trabalho\LP\Atividade1POO\Atividade1\bin\Debug\netcoreapp2.1\Atividade1.runtimeconfig.dev.json
+C:\Users\alexa\OneDrive\Área de Trabalho\LP\Atividade1POO\Atividade1\bin\Debug\netcoreapp2.1\Atividade1.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\LP\Atividade1POO\Atividade1\bin\Debug\netcoreapp2.1\Atividade1.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\LP\Atividade1POO\Atividade1\obj\Debug\netcoreapp2.1\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\LP\Atividade1POO\Atividade1\obj\Debug\netcoreapp2.1\Atividade1.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\LP\Atividade1POO\Atividade1\obj\Debug\netcoreapp2.1\Atividade1.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Área de Trabalho\LP\Atividade1POO\Atividade1\obj\Debug\netcoreapp2.1\Atividade1.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\LP\Atividade1POO\Atividade1\obj\Debug\netcoreapp2.1\Atividade1.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\LP\Atividade1POO\Atividade1\obj\Debug\netcoreapp2.1\Atividade1.csprojAssemblyReference.cache
